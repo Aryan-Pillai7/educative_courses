@@ -678,6 +678,16 @@
    "difficulty": "beginner",
    "module_number": 7,
    "certification": "paid"
+ },
+ {
+   "id": 131,
+   "platform": "educative",
+   "free_course": "no",
+   "course_name": "Introduction to Data Science with Python",
+   "link": "https://www.educative.io/courses/introduction-to-data-science-with-python",
+   "difficulty": "beginner",
+   "module_number": 88,
+   "certification": "paid"
  } 
 ]
 
